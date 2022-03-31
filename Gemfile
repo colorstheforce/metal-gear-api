@@ -12,7 +12,7 @@ gem 'rails', '~> 5.1.4'
 # gem 'sqlite3','~> 1.3.6'
 gem 'pg'
 # Use Puma as the app server
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 4.3'
 gem "actionview", ">= 5.1.6.2"
 gem "nokogiri", ">= 1.8.5"
 gem "activejob", ">= 5.1.6.1"
